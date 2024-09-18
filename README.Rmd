@@ -25,6 +25,10 @@ This is a line from RStudio - ANNA WAS HERE
 
 Grace
 
-
 Grace's Summary:
 The first issue I faced was loading the package. I received assistance from Adam getting the README file loaded into my R Studio. Next, I had to configure my username and email into git, so I used my computers terminal to complete that task. Next, I faced a large issue with a log in disconnect between R Studio and Github. I had to delete my file and restart the instructions. After doing that, RStudio is still asking for my log in each time I push, but Github is updating properly, so I am acting like there is nothing wrong.
+
+Adam's Summary: It was a struggle.
+
+I wasn’t connected to GitHub initially, so I had to manually add the repository to my project by copying and pasting the link. I also struggled to sync my work with my lab mates. Eventually, I realized that I needed to make changes, save, commit, push, and then pull in that order to avoid any issues.
+
