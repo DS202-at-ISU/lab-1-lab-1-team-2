@@ -24,3 +24,5 @@ Adam Zhu was here. This is a line from RSTUDIO
 This is a line from RStudio - ANNA WAS HERE
 
 Grace
+
+Adam's Summary: It was a struggle at first. We didn't have things connected, and did not have things synced up. In addition, we had a lot of problems with errors and login problems. However, after some troubleshooting by reading the errors, we were able to have everyone's versions the same accross all computers. We figured out that we have to commit, merge, and then pull. We have to do all 3 in that order or else things won't be synced up.
